@@ -198,14 +198,14 @@ fetch(apiUrl)
 // funciton that handles history button click
 // event listners
 
-function getWeather(cityName) {
-            let queryURL = "var rootUrl = "https://api.openweathermap.org";
-            " + cityName + "&appid=" + APIKey;
-            axios.get(queryURL)
-            .then(function(response){
-                console.log(response);
+// function getWeather(cityName) {
+//             let queryURL = "var rootUrl = "https://api.openweathermap.org";
+//             " + cityName + "&appid=" + APIKey;
+//             axios.get(queryURL)
+//             .then(function(response){
+//                 console.log(response);
 
-gethistory();
+// gethistory();
 
 
 // // function fetchWeather(location) {
@@ -228,7 +228,7 @@ gethistory();
 // }
 
 
-// // Andrew Mason to Everyone (12:54 PM)
+// // next fucntion below
 // // function fetchCoords(search) {
 // //   var apiUrl = `${weatherApiRootUrl}/geo/1.0/direct?q=${search}&limit=5&appid=${weatherApiKey}`;
 
