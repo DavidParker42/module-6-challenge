@@ -193,6 +193,21 @@ fetch(apiUrl)
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // api calls
 // functions that handle search form submit
 // funciton that handles history button click
